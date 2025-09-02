@@ -19,7 +19,7 @@ I’m currently learning **Machine Learning and Web Development**
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mohamed-irsath07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-irsath07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-profile" height="30" width="40" /></a>
 <a href="https://x.com/irsathhh_" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/irsathhh__?igsh=MTAzcWh0YnRjaTd0bQ===" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-profile" height="30" width="40" /></a>
 </p>
