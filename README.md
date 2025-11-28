@@ -3,7 +3,7 @@
 
 
 
-I’m currently learning **Machine Learning, Web Development and Data Engineering**
+Currently learning **MERN Stack and Machine Learning**
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
@@ -20,7 +20,7 @@ I’m currently learning **Machine Learning, Web Development and Data Engineerin
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-irsath07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-profile" height="30" width="40" /></a>
-<a href="https://x.com/irsathhh_" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
+<a href="https://x.com/irsathhh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x-profile" height="30" width="40" /></a>
 <a href="https://www.instagram.com/irsathhh__?igsh=MTAzcWh0YnRjaTd0bQ===" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-profile" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mohamedirsath07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle-profile" height="30" width="40" /></a>
 </p>
